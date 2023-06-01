@@ -3,5 +3,8 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"dart.flutterSdkPath": "/Users/juniormoraes/fvm/versions/3.10.1"
+	}
 }
